@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/histories/search/findHistoriesByUserEmail?userEmail=testuser@email.com&page=0&size=5
+Content-Type: application/json

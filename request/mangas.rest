@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/mangas/search/findByTitleContaining?title=JavaScript
+Content-Type: application/json
